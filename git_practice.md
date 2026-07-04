@@ -9,3 +9,7 @@ because we be **jammin baby**...
 >We are all about that action ***boss***.
 ---
 
+### What We Do
+>We are learning how to ***git*** it together... 
+---
+**"Never doubt a man trying to master his git flow"** - Remmy Two Stacks.
