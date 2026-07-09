@@ -16,4 +16,5 @@ because we be **jammin baby**...
 #### Too many headings, no I do not think so!
 * Let us create lists
 >With blocks
-*and more spice ***maybe***.
+* and more spice ***maybe***.
+* Utilize **punctuation**... Ya right oh kayyy.
