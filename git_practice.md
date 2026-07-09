@@ -13,3 +13,7 @@ because we be **jammin baby**...
 >We are learning how to ***git*** it together... 
 ---
 **"Never doubt a man trying to master his git flow"** - Remmy Two Stacks.
+#### Too many headings, no I do not think so!
+* Let us create lists
+>With blocks
+*and more spice ***maybe***.
