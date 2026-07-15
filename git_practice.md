@@ -18,3 +18,11 @@ because we be **jammin baby**...
 >With blocks
 * and more spice ***maybe***.
 * Utilize **punctuation**... Ya right oh kayyy.
+---
+>**It is times like this, that we remember to always update Git**.
+>***Let us make this a test of my markdown abilities***.
+---
+##### The Dream...
+---
+***"They said the dream was never ours to begin with"*** - Them.
+>Well when in doubt add more blocks, I am notion now.
